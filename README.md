@@ -7,8 +7,8 @@ For package installation : install.packages("package_names")
 For execution in command prompt, refer to file inside command_prompt. 
 
 References:
-https://campus.datacamp.com/courses/free-introduction-to-r/chapter-5-data-frames?ex=3
 
+https://campus.datacamp.com/courses/free-introduction-to-r/chapter-5-data-frames?ex=3
 https://journal.r-project.org/archive/2013/RJ-2013-001/RJ-2013-001.pdf
 https://www.mathworks.com/help/stats/classificationsvm-class.html
 https://www.svm-tutorial.com/2014/11/svm-classify-text-r/
