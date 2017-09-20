@@ -4,7 +4,8 @@ Project on text classification in R
 I have used Rstudio for this. One can just run svm_train.r and svm_test.r script in Rstudio for output. 
 For package installation : install.packages("package_names")
 
-For execution in command prompt, refer to file command_prompt_ ..... . 
+For execution in command prompt, refer to file command_prompt.
+Make separate training.bat and test.bat file and inside it specify the svm_training.r and svm_test.r accordingly and run it.
 
 References:
 
